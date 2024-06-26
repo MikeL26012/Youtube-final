@@ -1,0 +1,78 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #0D0D0D;
+}
+
+.caja1 {
+    background-color: #0D0D0D;
+    height: 50px;
+}
+
+.caja2 {
+    background-color: #0D0D0D;
+    height: 50px;
+}
+
+.caja3 {
+    background-color: #0D0D0D;
+    height: 50px;
+}
+
+.caja4 {
+    background-color: #0D0D0D;
+    height: 600px;
+}
+
+.caja5 {
+    background-color: #0D0D0D;
+    height: 1000px;
+}
+
+.boton-like1 {
+    background-color: #ff0000; /* Color de fondo verde */
+    color: white; /* Color del texto blanco */
+    padding: 10px 20px; /* Espaciado interno del botón */
+    font-size: 16px; /* Tamaño del texto */
+    border: none; /* Borde sin estilo */
+    cursor: pointer; /* Cambiar el cursor al pasar sobre el botón */
+    border-radius: 4px; /* Bordes redondeados */
+  }
+
+  .boton-like2 {
+    background-color: #ff0000; /* Color de fondo verde */
+    color: white; /* Color del texto blanco */
+    padding: 10px 20px; /* Espaciado interno del botón */
+    font-size: 16px; /* Tamaño del texto */
+    border: none; /* Borde sin estilo */
+    cursor: pointer; /* Cambiar el cursor al pasar sobre el botón */
+    border-radius: 4px; /* Bordes redondeados */
+  }
+
+  .boton-like1:hover {
+    background-color: #fdfdfd; /* Color de fondo más oscuro al pasar el cursor */
+    color: #000000;
+  }
+
+  .boton-like2:hover {
+    background-color: #fdfdfd; /* Color de fondo más oscuro al pasar el cursor */
+    color: #000000;
+  }
+
+  .boton-like3 {
+    background-color: #ff0000; /* Color de fondo verde */
+    color: white; /* Color del texto blanco */
+    padding: 10px 20px; /* Espaciado interno del botón */
+    font-size: 16px; /* Tamaño del texto */
+    border: none; /* Borde sin estilo */
+    cursor: pointer; /* Cambiar el cursor al pasar sobre el botón */
+    border-radius: 4px; /* Bordes redondeados */
+    float: right;
+  }
+
+  .boton-like3:hover {
+    background-color: #fdfdfd; /* Color de fondo más oscuro al pasar el cursor */
+    color: #000000;
+  }
